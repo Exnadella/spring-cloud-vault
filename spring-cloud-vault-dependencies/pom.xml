@@ -82,7 +82,7 @@
 			<dependency>
 				<groupId>org.springframework.cloud</groupId>
 				<artifactId>spring-cloud-starter-vault-config</artifactId>
-				<version>${project.version}</version>
+				<version>3.0.4</version>
 			</dependency>
 		</dependencies>
 	</dependencyManagement>
